@@ -1,0 +1,12 @@
+# Python-generated files
+__pycache__/
+wheels/
+*.egg-info
+uv.lock
+pyproject.toml
+.python-version
+credentials.json
+llm_manager.py
+
+# Virtual environments
+.venv
