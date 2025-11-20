@@ -1,0 +1,70 @@
+Assistant:
+💭 **Your Memories:**
+
+`5152fa3f-777a-4d7d-985c-bcf8c2183ae4`: I prefer evening workouts *[health, user_preferences]*
+You: help
+Assistant:
+🤖 **Available Commands:**
+
+📅 **Calendar Commands:**
+- "today" / "today's schedule" - Show today's events
+- "week" / "weekly schedule" - Show this week's events
+- "upcoming events" - Show upcoming events
+- "search [query]" - Search events
+- "available" / "free time" - Check availability
+- "next free slot" - Find next available time
+
+💭 **Memory Commands:**
+- "remember that..." - Store a memory
+- "remember i..." - Store personal memory
+- "remember to..." - Store reminder
+- "recall [topic]" - Recall memories about topic
+- "my memories" - Show all memories
+- "search memory [query]" - Search memories
+- "update memory " - Update specific memory
+- "delete memory " - Delete specific memory
+- "clear memories" - Delete all memories
+- "i prefer..." - Store preference
+
+💡 **Examples:**
+- "remember that I prefer morning workouts"
+- "recall meeting preferences"
+- "search memory project deadline"
+- "update memory abc123 I prefer afternoon workouts"
+- "delete memory def456"
+- "today's schedule"
+- "am I free tomorrow?"
+You: upcoming events
+Assistant:
+📅 **Upcoming Events:**
+
+1. **Guru Tegh Bahadur's Martyrdom Day** - All day
+2. **Christmas Eve** - All day
+3. **Christmas** - All day
+4. **New Year's Day** - All day
+5. **Hazarat Ali's Birthday** - All day
+6. **Pongal** - All day
+7. **Makar Sankranti** - All day
+8. **Vasant Panchami** - All day
+9. **Republic Day** - All day
+10. **Guru Ravidas Jayanti** - All day
+You: today
+Assistant:
+📅 **Today's Schedule:**
+
+No events found.
+You: search memory for workouts
+Assistant:
+🔍 **Memory Search Results for 'for workouts':**
+
+`5152fa3f-777a-4d7d-985c-bcf8c2183ae4`: I prefer evening workouts
+You: clear memories
+Assistant:
+🗑️ **All memories have been cleared.**
+You: remember to set up a meet for 9 am today
+Assistant:
+💾 **Memory Stored:** "set up a meet for 9 am today"
+Assistant:
+💭 **Your Memories:**
+
+`b73ee840-54a3-43b9-ba02-a201f3bffc1e`: User wants to set up a meeting at 9 am today
